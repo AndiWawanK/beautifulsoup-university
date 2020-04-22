@@ -1,0 +1,3 @@
+spiders/*
+!/spiders/__init__.py
+!/spiders/scraper.py

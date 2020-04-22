@@ -1,0 +1,103 @@
+{
+    "results": [
+        {
+            "courseName": "Metodologi Riset Teknologi Informasi", 
+            "courseClass": "12D", 
+            "courseRoom": "D-106-107", 
+            "courseCode": "TIF060", 
+            "courseDay": "Senin", 
+            "courseEnd": "14:30", 
+            "courseId": "1", 
+            "courseLecturer": "Supatman, S.T., M.T.", 
+            "courseStart": "12:01"
+        }, 
+        {
+            "courseName": "Praktikum Basis Data", 
+            "courseClass": "12D1", 
+            "courseRoom": "D-LAB1", 
+            "courseCode": "TIF036P", 
+            "courseDay": "Selasa", 
+            "courseEnd": "12:00", 
+            "courseId": "2", 
+            "courseLecturer": "Arita Witanti, S.T., M.T.", 
+            "courseStart": "10:21"
+        }, 
+        {
+            "courseName": "Mobile Computing", 
+            "courseClass": "12D", 
+            "courseRoom": "D-304-305", 
+            "courseCode": "TIF059", 
+            "courseDay": "Selasa", 
+            "courseEnd": "14:30", 
+            "courseId": "3", 
+            "courseLecturer": "Komang Sidhi A., S.Kom., M.Cs", 
+            "courseStart": "12:01"
+        }, 
+        {
+            "courseName": "Praktikum Mobile Computing", 
+            "courseClass": "12D", 
+            "courseRoom": "D-304-305", 
+            "courseCode": "TIF059P", 
+            "courseDay": "Selasa", 
+            "courseEnd": "16:10", 
+            "courseId": "4", 
+            "courseLecturer": "Komang Sidhi A., S.Kom., M.Cs", 
+            "courseStart": "14:31"
+        }, 
+        {
+            "courseName": "Analisis dan Perancangan Sistem", 
+            "courseClass": "12D", 
+            "courseRoom": "D- FULL ELEARNING TI", 
+            "courseCode": "TIF057", 
+            "courseDay": "Rabu", 
+            "courseEnd": "01:00", 
+            "courseId": "5", 
+            "courseLecturer": "Mutaqin Akbar, S.Kom., M.T.Pande Nyoman A.S, S.Kom., M.Cs", 
+            "courseStart": "00:00"
+        }, 
+        {
+            "courseName": "Pemodelan dan Simulasi", 
+            "courseClass": "12D", 
+            "courseRoom": "D-302-303", 
+            "courseCode": "TIF058", 
+            "courseDay": "Kamis", 
+            "courseEnd": "17:00", 
+            "courseId": "6", 
+            "courseLecturer": "Indah Susilawati, S.T., M.Eng.", 
+            "courseStart": "14:31"
+        }, 
+        {
+            "courseName": "Praktikum Analisis dan Perancangan Sistem", 
+            "courseClass": "12D4", 
+            "courseRoom": "D-LAB2", 
+            "courseCode": "TIF057P", 
+            "courseDay": "Jumat", 
+            "courseEnd": "14:30", 
+            "courseId": "7", 
+            "courseLecturer": "Mutaqin Akbar, S.Kom., M.T.", 
+            "courseStart": "12:51"
+        }, 
+        {
+            "courseName": "Teknik Klasifikasi dan Pengenalan Pola", 
+            "courseClass": "12D", 
+            "courseRoom": "D-302-303", 
+            "courseCode": "TIF056", 
+            "courseDay": "Jumat", 
+            "courseEnd": "16:00", 
+            "courseId": "8", 
+            "courseLecturer": "Indah Susilawati, S.T., M.Eng.", 
+            "courseStart": "14:31"
+        }, 
+        {
+            "courseName": "Kuliah Kerja Nyata (KKN)", 
+            "courseClass": "12D", 
+            "courseRoom": "D-OUTDOOR 1", 
+            "courseCode": "UMB013P", 
+            "courseDay": "Sabtu", 
+            "courseEnd": "20:10", 
+            "courseId": "9", 
+            "courseLecturer": "-", 
+            "courseStart": "20:01"
+        }
+    ]
+}
